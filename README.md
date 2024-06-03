@@ -1,2 +1,2 @@
 # playwright with pytest framework
-[![Python package](https://github.com/Ksingh22/playwright/actions/workflows/pytest-github-actions.yml/badge.svg)](https://github.com/Ksingh22/playwright/actions/workflows/pytest-github-actions.yml)
+[![Python package](https://github.com/Ksingh22/playwright/actions/workflows/pytest-github-actions.yml/badge.svg)](https://github.com/Ksingh22/playwright_pytest/actions/workflows/pytest-github-actions.yml)
