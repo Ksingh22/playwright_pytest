@@ -1,0 +1,23 @@
+
+{   
+    "test_case1":
+    {
+        "full_name": "User Test", 
+        "phone_number": "0430136785", 
+        "business_email": "test@test.com",
+        "country": "Australia",
+        "employee": "11 - 15",
+        "job_title": "QA Engineer",
+        "message_box": "QA Engineer"
+    },
+    "test_case2":
+    {
+        "full_name": "User Test1", 
+        "phone_number": "0430136785", 
+        "business_email": "test1@test.com",
+        "country": "Canada",
+        "employee": "11 - 15",
+        "job_title": "Data Engineer",
+        "message_box": "Data Engineer"
+    }
+}
