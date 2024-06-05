@@ -1,5 +1,7 @@
 from playwright.sync_api import expect
+
 class DemoPage:
+
     def __init__(self,page):
         self.page = page
         self._header_btns = page.locator("div.d-flex.web-menu-btn button").all()
