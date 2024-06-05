@@ -1,6 +1,6 @@
 class CheckoutPage:
 
-    def __init__(self,page):
+    def __init__(self,page): 
         self.page = page
         self._first_name = page.locator("#first-name")
         self._last_name = page.locator("#last-name")
