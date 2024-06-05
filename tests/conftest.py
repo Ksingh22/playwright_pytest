@@ -41,7 +41,7 @@ def browser_context(playwright: Playwright):
 
 @pytest.fixture(scope="session")
 def open_catch_url(playwright: Playwright):
-    browser = playwright.firefox.launch(headless=False)
+    browser = playwright.firefox.launch(headless=True)
     context = browser.new_context()
     # create a new page inside context.
     page = context.new_page()
